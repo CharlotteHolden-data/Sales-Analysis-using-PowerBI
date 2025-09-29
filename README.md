@@ -1,7 +1,7 @@
 # Sales Analysis: Data Normalization and Visualization with Power BI 📊✨
 
 This repository showcases the use of **Power BI** to normalize and clean sales data, followed by the creation of interactive visuals that provide insightful analysis.
-[Link to my Report](https://app.powerbi.com/groups/me/reports/e096a521-f359-434e-867d-cfa3cf04e732/bbcf3999b9b60bce2507?experience=power-bi)
+[Link to my Report](https://app.powerbi.com/view?r=eyJrIjoiY2YxMmVkNDgtZjg1Yy00ODNjLThlMmUtY2UwYjY4NzExYmUxIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 ## Overview
 
 Utilizing Power BI's robust data transformation tools, we effectively cleaned and normalized sales datasets to ensure accuracy and consistency, enabling meaningful analysis and visualization.
